@@ -28,6 +28,16 @@ sections:
       - title: Whitlable App
         text: Die App hat Ihr Fimenlogo und die Regeln für Ihre Mitarbeiter
         icon: fa-gem text-info 
+
+
+  - type: app.html
+    section_id: app
+    #background_style: bg-info
+    title: iOS App
+    services:
+      - title: Whitlable App
+        text: Die App hat Ihr Fimenlogo und die Regeln für Ihre Mitarbeiter
+        icon: fa-gem text-info 
  
  
 
