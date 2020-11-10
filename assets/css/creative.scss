@@ -5,6 +5,17 @@
 
 @charset "UTF-8";
 
+.bg-contact {
+  background-color: #e7e7e7 !important;
+}
+
+a.bg-contact:hover, a.bg-contact:focus,
+button.bg-contact:hover,
+button.bg-contact:focus {
+  background-color: #d8d8d8 !important;
+}
+
+
 $coronaPrimColor: #23a338;
  
 .post-meta {
