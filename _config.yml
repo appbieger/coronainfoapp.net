@@ -30,8 +30,9 @@ url: "https://coronainfoapp.net" # the base hostname & protocol for your site, e
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-
-lang: de_DE
+  - jekyll-sitemap
+lang: de
+github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
