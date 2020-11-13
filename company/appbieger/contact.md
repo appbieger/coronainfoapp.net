@@ -1,6 +1,7 @@
 ---
 layout: company
 search: exclude
+title: Kontakt
 
 sections:
   - type: companyContact.html
