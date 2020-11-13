@@ -6,10 +6,10 @@ sections:
   - type: companyContact.html
     section_id: address
     background_style:  
-    title: Corona Kotnakte
+    title: Kontakt
     text: Beschäftigte können ihre Anfrage ab sofort auch per E-Mail an das Gesundheitswesen senden.
     contactinfos: >-
-        Hotline Covid-19</br>
+        <h1>Hotline Covid-19</h1></br>
         Telefon: 0170880140</br> 
         </br>
         Montags bis Freitags 8.00 bis 16.00 Uhr</br>
