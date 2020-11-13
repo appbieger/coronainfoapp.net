@@ -1,0 +1,11 @@
+---
+layout: basecompany
+---
+
+ 
+
+{% for section in page.sections %}
+    {% include {{ section.type }} section=section site=site page=page %}
+{% endfor %}
+
+{{ content }}
