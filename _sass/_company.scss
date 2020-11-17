@@ -1,0 +1,32 @@
+ 
+ 
+
+.HelpHeaderBackground {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 4.5rem);
+    background: linear-gradient(to bottom, rgba(63, 109, 155, 0.8) 0%, rgba(81, 115, 209, 0.8) 100%), url("../../assets/img/backgrounds/HelpBackground.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    max-height: 10px;
+    padding-top: 55px;
+    text-align: center;
+}
+
+.VerhaltenHeaderBackground {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 4.5rem);
+    background: linear-gradient(to bottom, rgba(63, 109, 155, 0.8) 0%, rgba(81, 115, 209, 0.8) 100%), url("../../assets/img/backgrounds/bgMask.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    max-height: 10px;
+    padding-top: 55px;
+    text-align: center;
+}
+
+.page-section-company {
+    padding-top: 2rem;
+}
