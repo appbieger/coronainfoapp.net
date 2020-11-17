@@ -44,6 +44,44 @@ sections:
     #background_style: bg-info
     title: iOS App
 
+  - type: price.html
+    section_id: preise
+    background_style: bg-light
+    #background_style: bg-primary
+    title: Preise
+    text: Bitte beachten Sie, dass die monatlichen Betriebskosten von der Anzahl an Mitarbeitenden abhängt. Eine genaue Berechnung der Kosten für Ihr Unternehmen lassen wir Ihnen gerne kostenlos und unverbindlich zukommen.
+    tarif:
+      - title: S Paket
+        text: < 2.000 Mitarbeiter
+        text-class: price-box-title
+        p1: Set-up Fee 
+        p1-price: 10.000 €
+        p2: Monatliche Betriebskosten abhängig von Mitarbeiteranzahl
+        class: price-box
+      - title: M Paket
+        text: 2.000 - 10.000 Mitarbeiter
+        text-class: price-box-title 
+        p1: Set-up Fee 
+        p1-price: 15.000 €
+        p2: Monatliche Betriebskosten abhängig von Mitarbeiteranzahl
+        class: price-box
+      - title: L Paket
+        text: 10.001 - 25.000 Mitarbeiter
+        text-class: price-box-title-fav 
+        p1: Set-up Fee  
+        p1-price: 17.500 €
+        p2: Monatliche Betriebskosten abhängig von Mitarbeiteranzahl
+        class: price-box price-box-fav
+      - title: XL Paket
+        text: > 
+              > 25.000 Mitarbeiter
+        p1: Initiale Set-up Fee
+        p1-price:  20.000 €
+        text-class: price-box-title  
+        p2: Monatliche Betriebskosten abhängig von Mitarbeiteranzahl
+        class: price-box
+
+ 
 
   - type: contact.html
     section_id: contact
@@ -51,5 +89,6 @@ sections:
     #background_style: bg-primary
     title: Kontakt
  
+
 
 ---
