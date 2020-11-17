@@ -43,6 +43,16 @@ sections:
     section_id: app
     #background_style: bg-info
     title: iOS App
+    screen:
+      - title: Corona Info Wiget
+        image: iPhoneCoronaInfo_widget.png
+      - title: Infektionen am Standort
+        image: iPhoneCoronaInfo_infectionen.png
+      # - title: Infektionen am Standort
+      #   image: iPhoneCoronaInfo_verhalten.png
+      # - title: Infektionen am Standort
+      #   image: iPhoneCoronaInfo_hilfe.png
+    
 
   - type: price.html
     section_id: preise
