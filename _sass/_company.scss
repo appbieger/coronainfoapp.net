@@ -4,7 +4,7 @@
 .HelpHeaderBackground {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 4.5rem);
-    background: linear-gradient(to bottom, rgba(35 , 168, 58, 0.596) 0%,  rgba(35 , 168, 58, 0.596)  100%), url("../../assets/img/backgrounds/bgMask.jpg");
+    background: linear-gradient(to bottom, rgba(35 , 168, 58, 0.596) 0%,  rgba(35 , 168, 58, 0.596)  100%),  url("../../assets/img/backgrounds/HelpBackground.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -41,7 +41,6 @@
    }
 
 .company-faq-Header{
-    padding-top: 10px;
-    padding-bottom : 10px;
+       padding: 10px;
       }
 
