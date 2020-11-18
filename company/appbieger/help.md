@@ -1,11 +1,15 @@
 ---
 layout: company
 search: exclude
-title: Hilfe
+title: Hilfe & FAQ
 
 sections:
+ 
+
+
   - type: companyCall.html
-    section_id: aside 
+    section_id: call 
+    icon: fas fa-globe-europe
     actions: 
       - title:  📞 Corona Hotline
         url: https://startbootstrap.com/themes/creative/
