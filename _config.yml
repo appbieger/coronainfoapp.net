@@ -21,7 +21,7 @@
 title: "Corona Info App"
 email: stephan@appbieger.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Mit der Corona Info App, können Sie ihren Mitarbeitern sowohl die öffentlichen Inzidnz Zahen des RKI sowie die Firmenspzifischen Informationen in einer eigenen App anbieten.
+  Mit der Corona Info App, können Sie ihren Mitarbeitern sowohl die öffentlichen Inzidnz Zahen des RKI sowie die Firmenspzifischen Informationen Mitarbeitern anbieten.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://coronainfoapp.net" # the base hostname & protocol for your site, e.g. http://example.com
  
