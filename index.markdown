@@ -50,8 +50,8 @@ sections:
         image: iPhoneCoronaInfo_infectionen.png
       # - title: Infektionen am Standort
       #   image: iPhoneCoronaInfo_verhalten.png
-      # - title: Infektionen am Standort
-      #   image: iPhoneCoronaInfo_hilfe.png
+      - title: Infektionen am Standort
+        image: iPhoneCoronaInfo_hilfe.png
     
 
   - type: price.html
