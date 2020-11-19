@@ -47,12 +47,15 @@ sections:
       - title: Corona Info Widget
         image: iPhoneCoronaInfo_widget.png
       - title: Infektionen am Standort
-        image: iPhoneCoronaInfo_infectionen.png
+        image: screenshots/de-DE/iPhone%20X-Screenshot1_framed.png 
+      - title: Infektionen am Standort
+        image: screenshots/de-DE/iPhone%20X-Screenshot2_framed.png 
       # - title: Infektionen am Standort
       #   image: iPhoneCoronaInfo_verhalten.png
       - title: Hilfe vom Betreib
-        image: iPhoneCoronaInfo_hilfe.png
+        image: screenshots/de-DE/iPhone%20X-Screenshot3_framed.png 
     
+   
 
   - type: price.html
     section_id: preise
