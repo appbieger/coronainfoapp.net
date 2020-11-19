@@ -45,7 +45,7 @@ sections:
     title: iOS App
     screen:
       - title: Corona Info Widget
-        image: iPhoneCoronaInfo_widget.png
+        image: screenshots/de-DE/iPhone%20X-ScreenshotWidget_framed.png
       - title: Infektionen am Standort
         image: screenshots/de-DE/iPhone%20X-Screenshot1_framed.png 
       - title: Infektionen am Standort
