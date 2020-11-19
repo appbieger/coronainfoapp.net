@@ -28,7 +28,7 @@ sections:
           E-Mail ksg.kommunikation@appbieger.com</br>
           </br>
           Das Gesundheitswesen weist darauf hin, dass für unsere Hotline jede freie medizinische Ressource zur Verfügung gestellt wird. Trotzdem kann es bei hoher Nachfrage zu Wartezeiten kommen. Nutzen Sie daher bitte auch die Möglichkeit, Ihre Anfrage per Mail zu stellen. Vielen Dank.
-      - frage: Was muss ich machen, wenn bei mit Corona festgestellt wurde?
+      - frage: Was muss ich machen, wenn bei mir Corona festgestellt wurde?
         antwort: Melden Sie ich bitte sofort an der Corona Hotline unter 0170880140 
       - frage: Was muss ich machen, wenn ich Schnupfen habe? 
         antwort: Kontaktieren Sie den Hausarzt und bei empfehlung einer Krankschreibung sollten Sie zu Hause bleiben. Bei zwiefel, melden Sie ich bitte an der Corona Hotline unter 0170880140 oder schreiben Sie uns ksg.kommunikation@appbieger.com   
