@@ -30,12 +30,12 @@ sections:
           Das Gesundheitswesen weist darauf hin, dass für unsere Hotline jede freie medizinische Ressource zur Verfügung gestellt wird. Trotzdem kann es bei hoher Nachfrage zu Wartezeiten kommen. Nutzen Sie daher bitte auch die Möglichkeit, Ihre Anfrage per Mail zu stellen. Vielen Dank.
       - frage: Was muss ich machen, wenn bei mit Corona festgestellt wurde?
         antwort: Melden Sie ich bitte sofort an der Corona Hotline unter 0170880140 
-      - frage: Was muss ich machen wenn ich Schnupfen habe? 
-        antwort: Kontaktieren Sie den Hausarzt und bei empfehlung einer Krankschreibung sollten Sie zuhause bleiben. Bei zwiefel, melden Sie ich bitte an der Corona Hotline unter 0170880140 oer schreiben Sie uns ksg.kommunikation@appbieger.com      
-      - frage: Was soll ich machen wenn ein enger Angehöriger positiv auf Corona getestet wurde? 
-        antwort: Kontaktieren Sie den Hausarzt und bei empfehlung einer Krankschreibung sollten Sie zuhause bleiben. Bei zwiefel, melden Sie ich bitte an der Corona Hotline unter 0170880140 oer schreiben Sie uns ksg.kommunikation@appbieger.com
+      - frage: Was muss ich machen, wenn ich Schnupfen habe? 
+        antwort: Kontaktieren Sie den Hausarzt und bei empfehlung einer Krankschreibung sollten Sie zu Hause bleiben. Bei zwiefel, melden Sie ich bitte an der Corona Hotline unter 0170880140 oder schreiben Sie uns ksg.kommunikation@appbieger.com   
+      - frage: Was soll ich machen, wenn ein enger Angehöriger positiv auf Corona getestet wurde? 
+        antwort: Kontaktieren Sie den Hausarzt und bei Empfehlung einer Krankschreibung sollten Sie zu Hause bleiben. Bei Zweifel melden Sie ich bitte an der Corona Hotline unter 0170880140 oder schreiben Sie uns ksg.kommunikation@appbieger.com
       - frage: Wo finde ich weitere Informationen?
-        antwort: Im Intrente unter xxx oder beim [Bundesgesundheitministerum] (https://www.bundesgesundheitsministerium.de/coronavirus.html)
+        antwort: Im Intranet unter xxx oder beim [Bundesgesundheitministerum] (https://www.bundesgesundheitsministerium.de/coronavirus.html)
       - frage: Ist das hier die Corona-Warn-App ?
         antwort: Nein, die Corona-Warn-App hat den Sinn der Kontaktverfolgung. Diese App informiert über die aktuelle Coronalage sowie die allgemeinen und betrieblichen Informationen rund um die Corona Pandemie
 ---
