@@ -16,7 +16,7 @@ sections:
     background_style: bg-coronaSecoColor 
     title: Mit Ihrer CORONA App
     text: >
-      Schützen Sie Ihr Unternehmen indem Sie Ihre Mitarbeiter sicher durch die Pandemie führen. Schaffen Sie Transparenz über die aktuelle Situation an Ihren Unternnehmensstandorten. 
+      Schützen Sie Ihr Unternehmen indem Sie Ihre Mitarbeiter sicher durch die Pandemie führen. Schaffen Sie Transparenz über die aktuelle Situation an Ihren Unternehmensstandorten. 
     actions:
       - title: Starten Sie JETZT!
         url: '#services'
@@ -76,7 +76,7 @@ sections:
     background_style: bg-light
     #background_style: bg-primary
     title: Preise
-    text: Bitte beachten Sie, dass die monatliche Nutzungsgebühr abhängig ist von der Anzahl Ihrer Mitarbeiter. Eine genaue Berechnung für Ihr Unternehmen lassen wir Ihnen gerne kostenlos und unverbindlich zukommen.
+    text: Bitte beachten Sie, dass die monatliche Nutzungsgebühr von der Anzahl Ihrer Mitarbeiter abhängig ist. Eine genaue Berechnung für Ihr Unternehmen lassen wir Ihnen gerne kostenlos und unverbindlich zukommen.
     tarif:
       - title: S Paket
         text: < 2.000 Mitarbeiter
