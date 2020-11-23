@@ -1,0 +1,1 @@
+  19.11.20 18:21:04 MEZ: Komposition 'Final-Comp' gestartet.  Sichern unter: /Users/yaron/coronainfoapp.net/video/Final-Comp.mov      Rendern vom Benutzer gestoppt.    19.11.20 18:25:42 MEZ: Komposition 'Final-Comp' beendet.  Bish. Renderz.: 4 Min., 37 Sek.Das Protokoll wurde am 19.11.20 um 18:25:42 MEZ geschlossen.

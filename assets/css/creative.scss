@@ -16,8 +16,24 @@ button.bg-contact:focus {
 }
 
 
-$coronaPrimColor: #23a338;
+$coronaPrimColor: #f88e16;
+$coronaSecoColor: #191919;
+$coronaBGColor: #FEFEFE;
+
+
  
+.bg-coronaSecoColor {
+  background-color: $coronaSecoColor !important;
+}
+
+.bg-coronaPrimColor {
+  background-color: $coronaPrimColor !important;
+}
+
+.bg-coronaBGColor {
+  background-color: $coronaBGColor !important;
+}
+
 .post-meta {
   float: right;
 }
@@ -104,7 +120,7 @@ $coronaPrimColor: #23a338;
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: $coronaPrimColor;
-  --secondary: #6c757d;
+  --secondary: $coronaSecoColor;
   --success: #28a745;
   --info: #17a2b8;
   --warning: #ffc107;
@@ -6146,7 +6162,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #0eb632 !important;
+  background-color: #f88e16 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
