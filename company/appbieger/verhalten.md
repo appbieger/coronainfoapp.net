@@ -6,12 +6,38 @@ title: Verhalten
 sections:
   - type: companyVerhalten.html 
     contactinfos: >-
+        <h2>Allgemein</h2></br>
+        <h5> Die wichtigsten Maßnahmen</h5>
+        <ol>
+        <li>Abstand halten (mindestens 1,5 Meter)</li>
+        <li>Verstärkte und gründliche Handhygiene</li>
+        <li>Einhaltung von Nies- und Hustetikette (Armbeuge)</li>
+        <li>Unbedingter Verzicht auf Händeschütteln</li>
+        <li>Fernhalten der Hände vom Gesicht</li>
+        </ol>
+
+        <a href="https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-massnahmen-1734724">WEITERE INFOS</a>
+        <br><br>
+
+
         <h2>Betriebliche Regelungen</h2></br>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+                <ol>
+        <li>Abstand halten (mindestens 1,5 Meter)</li>
+        <li>Verstärkte und gründliche Handhygiene</li>
+        <li>Einhaltung von Nies- und Hustetikette (Armbeuge)</li>
+        <li>Unbedingter Verzicht auf Händeschütteln</li>
+        <li>Fernhalten der Hände vom Gesicht</li>
+        </ol>z
+        Dir wichtigsten Maßnahmen</br>
+        Abstand halten (mindestens 1,5 Meter)</br>
+        verstärkte und gründliche Handhygiene</br>
+        Einhaltung von Nies- und Hustetikette (Armbeuge)</br>
+        unbedingter Verzicht auf Händeschütteln</br>
+        sowie das Fernhalten der Hände vom Gesicht</br>
         </br></br></br>
-        <h2>Allgemeine Verhaltensregeln</h2></br>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-        </br>
+
+  
  
   - type: companyCall.html
     section_id: call 

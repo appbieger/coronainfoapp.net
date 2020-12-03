@@ -18,7 +18,7 @@ sections:
  
   - type: companyFAQ.html
     faq:
-      - frage: Wen kann ich Kontaktieren bei Fragen?
+      - frage: Wen kann ich kontaktieren bei Fragen?
         antwort: >-
           <h2>Hotline Covid-19</h2></br>
           Telefon: 0170880140</br> 
@@ -28,16 +28,16 @@ sections:
           E-Mail ksg.kommunikation@appbieger.com</br>
           </br>
           Das Gesundheitswesen weist darauf hin, dass für unsere Hotline jede freie medizinische Ressource zur Verfügung gestellt wird. Trotzdem kann es bei hoher Nachfrage zu Wartezeiten kommen. Nutzen Sie daher bitte auch die Möglichkeit, Ihre Anfrage per Mail zu stellen. Vielen Dank.
-      - frage: Was muss ich machen, wenn bei mir Corona festgestellt wurde?
-        antwort: Melden Sie ich bitte sofort an der Corona Hotline unter 0170880140 
-      - frage: Was muss ich machen, wenn ich Schnupfen habe? 
+      - frage: Wie verhalte ich mich, wenn ich Schnupfen habe? 
         antwort: Kontaktieren Sie den Hausarzt und bei empfehlung einer Krankschreibung sollten Sie zu Hause bleiben. Bei zwiefel, melden Sie ich bitte an der Corona Hotline unter 0170880140 oder schreiben Sie uns ksg.kommunikation@appbieger.com   
-      - frage: Was soll ich machen, wenn ein enger Angehöriger positiv auf Corona getestet wurde? 
+      - frage: Was muss ich tun, wenn ich positiv auf Corona getestet wurde?
+        antwort: Melden Sie ich bitte sofort an der Corona Hotline unter 0170880140 
+
+      - frage: Was soll ich tun, wenn ein enger Angehöriger positiv auf Corona getestet wurde? 
         antwort: Kontaktieren Sie den Hausarzt und bei Empfehlung einer Krankschreibung sollten Sie zu Hause bleiben. Bei Zweifel melden Sie ich bitte an der Corona Hotline unter 0170880140 oder schreiben Sie uns ksg.kommunikation@appbieger.com
       - frage: Wo finde ich weitere Informationen?
         antwort: Im Intranet unter xxx oder beim [Bundesgesundheitministerum] (https://www.bundesgesundheitsministerium.de/coronavirus.html)
-      - frage: Ist das hier die Corona-Warn-App ?
-        antwort: Nein, die Corona-Warn-App hat den Sinn der Kontaktverfolgung. Diese App informiert über die aktuelle Coronalage sowie die allgemeinen und betrieblichen Informationen rund um die Corona Pandemie
+ 
 ---
 
 
