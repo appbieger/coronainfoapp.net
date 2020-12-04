@@ -15,11 +15,12 @@ function resizeImage(fileName) {
   Jimp.read(inputFolder + fileName).then(function (image) {
     image
         .resize(250, Jimp.AUTO)
-        .quality(100)
+        .quality(90)
         .write('./output/' + fileName);
   }).then(function () {
     console.log('moving filename', fileName);
-    fs.rename(inputFolder + fileName, processedFolder +  'x250_' + fileName, function (ignore) {
+    fs.rename('./output/' + fileName, processedFolder +  '250x/' + fileName, function (e) {
+      console.log(e, fileName)
     });
   }).catch(function (e) {
     console.log(e, fileName)

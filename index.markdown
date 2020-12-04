@@ -60,22 +60,22 @@ sections:
     title: App Design 
     screen:
       - title: Corona Info Widget
-        image: screenshots/de-DE/x250/iPhone%20X-ScreenshotWidget_framed.png
-        image_webp: screenshots/de-DE/x250/iPhone%20X-ScreenshotWidget_framed.webp
+        image: screenshots/de-DE/250x/iPhone%20X-ScreenshotWidget_framed.png
+        image_webp: screenshots/de-DE/250x/iPhone%20X-ScreenshotWidget_framed.webp
         link: screenshots/de-DE/iPhone%20X-ScreenshotWidget_framed.png
       - title: Infektionen am Standort
-        image: screenshots/de-DE/x250/iPhone%20X-Screenshot1_framed.png 
-        image_webp: screenshots/de-DE/x250/iPhone%20X-Screenshot1_framed.webp 
+        image: screenshots/de-DE/250x/iPhone%20X-Screenshot1_framed.png 
+        image_webp: screenshots/de-DE/250x/iPhone%20X-Screenshot1_framed.webp 
         link: screenshots/de-DE/iPhone%20X-Screenshot1_framed.png
       - title: Infektionen am Standort
-        image: screenshots/de-DE/x250/iPhone%20X-Screenshot2_framed.png 
-        image_webp: screenshots/de-DE/x250/iPhone%20X-Screenshot2_framed.webp 
+        image: screenshots/de-DE/250x/iPhone%20X-Screenshot2_framed.png 
+        image_webp: screenshots/de-DE/250x/iPhone%20X-Screenshot2_framed.webp 
         link: screenshots/de-DE/iPhone%20X-Screenshot2_framed.png
       # - title: Infektionen am Standort
       #   image: iPhoneCoronaInfo_verhalten.png
       - title: Hilfe vom Betreib
-        image: screenshots/de-DE/x250/iPhone%20X-Screenshot3_framed.png 
-        image_webp: screenshots/de-DE/x250/iPhone%20X-Screenshot3_framed.webp 
+        image: screenshots/de-DE/250x/iPhone%20X-Screenshot3_framed.png 
+        image_webp: screenshots/de-DE/250x/iPhone%20X-Screenshot3_framed.webp 
         link: screenshots/de-DE/iPhone%20X-Screenshot3_framed.png 
 
 
