@@ -1,8 +1,13 @@
 <div class="embed-container">
-    <iframe id="ytplayer" type="text/html" width="720" height="405"
-    src="https://www.youtube.com/embed/{{ include.id }}"
-    frameborder="0" allowfullscreen> 
-    </iframe>
+
+<div class="youtube-video-place " data-yt-url="https://www.youtube.com/embed/{{ include.id }}">
+    <picture>
+        <source srcset="./assets/img/YouTubeTeaser@1x.webp" type="image/webp">
+        <source srcset="./assets/img/YouTubeTeaser@1x.png" type="image/png"> 
+          <img src="./assets/img/YouTubeTeaser@1x.png" async class="play-youtube-video" alt="Corona Info App Video"   > </img>  
+      </picture>
+    <hr>
+    </div>
 </div>
-
-
+<!-- 
+embed-responsive embed-responsive-4by3  -->
