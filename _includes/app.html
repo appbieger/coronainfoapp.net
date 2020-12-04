@@ -13,24 +13,20 @@
       
             <div class="col-lg-3 ml-auto">
             </br>
-
-            <a href="./assets/img/app/{{screen.image}}"   > 
-                <img src="./assets/img/app/{{screen.image}}" alt="{{screen.title}}" width="250"  > </img>   
+            <a href="./assets/img/app/{{screen.link}}"> 
+                <picture>
+                  <source srcset="./assets/img/app/{{screen.image}}" type="image/webp">
+                  <source srcset="./assets/img/app/{{screen.image_webp}}" type="image/jpeg"> 
+                    <img src="./assets/img/app/{{screen.image}}" alt="{{screen.title}}" width="250"  > </img>  
+                </picture>
               </a>   
             </div>
-   
-          
-       
         {% endfor %}
-
-      
-        
         </div>
         <div class=" text-center"><br><br>
         {% include share-buttons.html %}
       </div>
       </div>
-      
     </div>
   </section>
   
