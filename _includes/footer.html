@@ -2,6 +2,8 @@
 <footer class="bg-light py-5">
   <div class="container">
     <div class="small text-center text-muted">
+     
+
       {{ site.data.footer.copyright }}
       &nbsp;
       {% for link in site.data.footer.links %}
@@ -11,6 +13,7 @@
           {% endif %}>{{ link.text }}</a> &nbsp;  
       {% endfor %}    
 
+      {% include share-buttons.html %}
     </div>
   </div>
 </footer>
