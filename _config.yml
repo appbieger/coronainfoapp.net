@@ -21,7 +21,7 @@
 title: "Corona Info App"
 email: stephan@appbieger.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Informieren Sie Ihre Mitarbeiter über die aktuelle Corona Inzidenz und wie Sie sich verhalten müssen mit Ihrer eigenen Corona App.
+  Schützen Sie Ihr Unternehmen indem Sie Ihre Mitarbeiter sicher durch die Pandemie führen. Schaffen Sie Transparenz über die aktuelle Situation an Ihren Unternehmensstandorten.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://coronainfoapp.net" # the base hostname & protocol for your site, e.g. http://example.com
  
