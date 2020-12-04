@@ -6,7 +6,7 @@ title: Verhalten
 sections:
   - type: companyVerhalten.html 
     contactinfos: >-
-        <h2>Allgemein</h2></br>
+        <h4>Allgemein</h4></br>
         <h5> Die wichtigsten Maßnahmen</h5>
         <ol>
         <li>Abstand halten (mindestens 1,5 Meter)</li>
@@ -20,25 +20,17 @@ sections:
         <br><br>
 
 
-        <h2>Betriebliche Regelungen</h2></br>
-
-                <ol>
-        <li>Abstand halten (mindestens 1,5 Meter)</li>
-        <li>Verstärkte und gründliche Handhygiene</li>
-        <li>Einhaltung von Nies- und Hustetikette (Armbeuge)</li>
-        <li>Unbedingter Verzicht auf Händeschütteln</li>
-        <li>Fernhalten der Hände vom Gesicht</li>
-        </ol>z
-        Dir wichtigsten Maßnahmen</br>
-        Abstand halten (mindestens 1,5 Meter)</br>
-        verstärkte und gründliche Handhygiene</br>
-        Einhaltung von Nies- und Hustetikette (Armbeuge)</br>
-        unbedingter Verzicht auf Händeschütteln</br>
-        sowie das Fernhalten der Hände vom Gesicht</br>
+        <h4>Kontaktbeschränkungen Gäste/Besucher im Büro</h4></br>
+        <ol>
+        <li>Gäste werden nur in den Besprechungsräumen empfangen - keine Besuch in den Büros</li>
+        <li>Maskenpflicht auf den Fluren und Gängen für Gäste gilt weiterhin, Abstandsregelungen im Besprechungsraum sind einzuhalten</li>
+        <li>Kontaktangaben der Besucher werden zentral gespeichert (z.B. über den Empfang in den jeweiligen Terminen in outlook)</li> 
+        </ol> 
+        </br>
+        Wir verfolgen mit diesen verschärften Maßnahmen das Ziel Ihres persönlichen Gesundheitsschutzes sowie der Aufrechterhaltung unseres Geschäftsbetriebes und bitten daher um konsequente Umsetzung der entsprechenden Maßnahmen bzw. Vorgaben.
+        </br></br>
+        Vielen Dank für Ihre Unterstützung.   
         </br></br></br>
-
-  
- 
   - type: companyCall.html
     section_id: call 
     icon: fas fa-globe-europe
