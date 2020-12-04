@@ -10147,9 +10147,18 @@ header.masthead {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/bg-masthead.jpg");
+
   background-size: cover;
 }
+
+.no-webp header.masthead {
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/bg-masthead.jpg");
+}
+
+.webp header.masthead {
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/bg-masthead.webp");
+}
+
 header.masthead h1 {
   font-size: 2.25rem;
 }
