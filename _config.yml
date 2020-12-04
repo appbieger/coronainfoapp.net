@@ -26,12 +26,23 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://coronainfoapp.net" # the base hostname & protocol for your site, e.g. http://example.com
  
+
 author:
-  name:              Stephan Tomforde
-  url:               https://appbieger.com
-  email:             stephan@appbieger.com
-  picture: /img/members/StephanTomforde.jpg
+  name: Stephan Tomforde
   twitter: stephantomforde
+  image: /img/members/StephanTomforde.jpg
+twitter:
+  username: stephantomforde
+  card: summary_large_image
+social:
+  name: Stephan Tomforde
+  links:
+    - https://twitter.com/stephantomforde
+    - https://www.facebook.com/stomforde
+    - https://www.linkedin.com/in/stephan-tomforde-0bb792125
+    - https://github.com/appbieger
+
+timezone: Europe/Berlin
 
 # Build settings
 theme: jekyll-theme-cayman
