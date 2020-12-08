@@ -2,6 +2,7 @@
 layout: page
 title: Kontaktieren Sie uns
 permalink: /kontakt
+tags: kontakt
 ---
  
 <div class="row">

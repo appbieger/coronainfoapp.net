@@ -2,6 +2,7 @@
 layout: page
 title: Datenschutz
 permalink: /datenschutz
+tags: datenschutz
 ---
 ## Datenschutzerklärung
 
